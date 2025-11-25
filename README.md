@@ -13,8 +13,8 @@ Minion includes a user profile section with avatar, job title, and location, a s
 
 ### Screenshots
 
-![image](https://i.imgur.com/NNBxDXs.png؟ver=1)
-![image](https://i.imgur.com/Eq9zmSC.png؟ver=1)
+![توضیح کوتاه](https://i.imgur.com/NNBxDXs.png)
+![image](https://i.imgur.com/Eq9zmSC.png)
 
 ---
 
