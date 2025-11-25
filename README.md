@@ -13,8 +13,8 @@ Minion includes a user profile section with avatar, job title, and location, a s
 
 ### Screenshots
 
-![Profile Header](https://i.imgur.com/qRU44v9.png)
-![Skill List & Form](https://i.imgur.com/WuMxB7D.png)
+![image](https://i.imgur.com/NNBxDXs.png)
+![image](https://i.imgur.com/Eq9zmSC.png)
 
 ---
 
